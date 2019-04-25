@@ -1,7 +1,7 @@
 package com.PPNet.dao;
 
-import com.xzy.pojo.Message;
-import com.xzy.pojo.MessageExample;
+import com.PPNet.pojo.Message;
+import com.PPNet.pojo.MessageExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

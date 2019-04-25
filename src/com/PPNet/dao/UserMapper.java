@@ -1,7 +1,7 @@
 package com.PPNet.dao;
 
-import com.xzy.pojo.User;
-import com.xzy.pojo.UserExample;
+import com.PPNet.pojo.User;
+import com.PPNet.pojo.UserExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

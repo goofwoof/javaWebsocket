@@ -1,7 +1,7 @@
 package com.PPNet.dao;
 
-import com.xzy.pojo.Chatroommessage;
-import com.xzy.pojo.ChatroommessageExample;
+import com.PPNet.pojo.Chatroommessage;
+import com.PPNet.pojo.ChatroommessageExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

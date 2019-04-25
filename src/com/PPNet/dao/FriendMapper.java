@@ -1,7 +1,7 @@
 package com.PPNet.dao;
 
-import com.xzy.pojo.Friend;
-import com.xzy.pojo.FriendExample;
+import com.PPNet.pojo.Friend;
+import com.PPNet.pojo.FriendExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 
